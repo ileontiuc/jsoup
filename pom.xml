@@ -23,7 +23,7 @@
   <scm>
   	<url>https://github.com/jhy/jsoup</url>
     <connection>scm:git:https://github.com/jhy/jsoup.git</connection>
-    <!-- <developerConnection>scm:git:git@github.com:jhy/jsoup.git</developerConnection> -->
+    <developerConnection>scm:git:git@github.com:jhy/jsoup.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <organization>
